@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "unity-2d-aula.sln"
+    "dotnet.defaultSolution": "joguinho2d.sln"
 }
